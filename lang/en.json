@@ -1,0 +1,22 @@
+{
+  "merp-fvtt-unnoficial.AbilityStr": "Strength",
+  "merp-fvtt-unnoficial.AbilityCon": "Constitution",
+  "merp-fvtt-unnoficial.AbilityDex": "Dexterity",
+  "merp-fvtt-unnoficial.AbilityInt": "Intelligence",
+  "merp-fvtt-unnoficial.AbilityWis": "Wisdom",
+  "merp-fvtt-unnoficial.AbilityCha": "Charisma",
+
+  "merp-fvtt-unnoficial.AbilityStrAbbr": "str",
+  "merp-fvtt-unnoficial.AbilityConAbbr": "con",
+  "merp-fvtt-unnoficial.AbilityDexAbbr": "dex",
+  "merp-fvtt-unnoficial.AbilityIntAbbr": "int",
+  "merp-fvtt-unnoficial.AbilityWisAbbr": "wis",
+  "merp-fvtt-unnoficial.AbilityChaAbbr": "cha",
+
+  "merp-fvtt-unnoficial.EffectCreate": "Create Effect",
+  "merp-fvtt-unnoficial.EffectToggle": "Toggle Effect",
+  "merp-fvtt-unnoficial.EffectEdit": "Edit Effect",
+  "merp-fvtt-unnoficial.EffectDelete": "Delete Effect",
+
+  "merp-fvtt-unnoficial.Add": "Add"
+}

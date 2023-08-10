@@ -1,0 +1,34 @@
+{
+  "id": "merp-fvtt-unnoficial",
+  "title": "MERP Unnoficial Foundry VTT",
+  "description": "An Unnoficial MERP system for FoundryVTT!",
+  "version": "1.2.0",
+  "compatibility": {
+    "minimum": 11,
+    "verified": "11.306",
+    "maximum": 11
+  },
+  "authors": [{
+    "name": "Alessandro Dias"
+  }],
+  "esmodules": ["module/merp-fvtt-unnoficial.mjs"],
+  "styles": ["css/merp-fvtt-unnoficial.css"],
+  "scripts": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "health",
+  "secondaryTokenAttribute": "power",
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "LICENSE.txt",
+  "changelog": "CHANGELOG.md"
+}
